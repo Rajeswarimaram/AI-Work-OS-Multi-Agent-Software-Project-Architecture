@@ -235,7 +235,10 @@ AI WorkOS demonstrates how multiple AI agents can collaborate to automate comple
 
 # Developed By
 
-Lakshmi Maram
+M.Rajeswari-Working on AI Agents
+D.Sameera-Frontend
+Sk.Yasmine-Backend
+L.Poojasri-Testing and Integration / PPT 
 
 B.Tech Student
 
